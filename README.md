@@ -9,3 +9,8 @@ generation for my programs.
 - TODO:	https://en.wikipedia.org/wiki/Xorshift
 - TODO:	https://en.wikipedia.org/wiki/George_Marsaglia
 - TODO:	http://programmingpraxis.com/2010/10/05/george-marsaglias-random-number-generators/
+
+# Author
+
+- Wojciech Adam Koszek, [wojciech@koszek.com](mailto:wojciech@koszek.com)
+- [http://www.koszek.com](http://www.koszek.com)
